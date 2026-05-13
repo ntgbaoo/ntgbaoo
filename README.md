@@ -13,10 +13,8 @@
 ## 👨‍💻 About Me
 
 - 💻 Software developer who loves building **clean, scalable, and impactful** applications
-- 🤖 Passionate about **AI/ML** research
-- 🌱 Open-source contributor in my free time
+- 🌱 Open-source contributor and **AI/ML** research in my free time
 - 📝 **8+ papers** papers, including publications at top-tier AI/ML venues: **NeurIPS, ICLR & ICML**
-
 
 
 ## 🛠️ Technologies
